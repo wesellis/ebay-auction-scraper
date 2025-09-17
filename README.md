@@ -210,7 +210,7 @@ curl http://localhost:8080/health
 **Results**:
 - 89% reduction in monitoring time
 - 34% increase in profitable purchases
-- $127K additional revenue in first year
+- Significant business improvements in first year
 
 ### Case Study: Collectibles Dealer
 **Challenge**: Missing rare item opportunities
@@ -218,7 +218,7 @@ curl http://localhost:8080/health
 **Results**:
 - 92% of rare items identified within 15 minutes
 - 67% increase in successful acquisitions
-- $89K profit increase over 8 months
+- Major efficiency gains over 8 months
 
 ### Performance Benchmarks
 | Dataset Size | Processing Time | Memory Usage | Accuracy |
